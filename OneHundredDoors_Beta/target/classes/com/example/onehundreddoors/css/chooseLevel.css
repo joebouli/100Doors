@@ -1,0 +1,71 @@
+.root {
+    -fx-background-image: url("images/difficultyScreen.png");
+    -fx-background-size: cover;
+}
+
+
+.backButton {
+    -fx-background-image: url("images/backButton.png");
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-max-width: 50px;
+    -fx-max-height: 50px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+
+.continueButton {
+    -fx-background-image: url("images/continueButton.png");
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-max-width: 50px;
+    -fx-max-height: 50px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+.easyButton {
+    -fx-background-image: url("images/easyButton.png");
+    -fx-min-width: 100px;
+    -fx-min-height: 80px;
+    -fx-max-width: 200px;
+    -fx-max-height: 150px;
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 200px 150px;
+    -fx-background-color: transparent;
+}
+
+.mediumButton {
+    -fx-background-image: url("images/mediumButton.png");
+    -fx-min-width: 100px;
+    -fx-min-height: 80px;
+    -fx-max-width: 200px;
+    -fx-max-height: 150px;
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 200px 150px;
+    -fx-background-color: transparent;
+}
+.hardButton {
+    -fx-background-image: url("images/hardButton.png");
+    -fx-min-width: 100px;
+    -fx-min-height: 80px;
+    -fx-max-width: 200px;
+    -fx-max-height: 150px;
+    -fx-background-size: stretch;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 200px 150px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}

@@ -1,0 +1,18 @@
+.root {
+    -fx-background-image: url("images/doorBackgroun.png");
+    -fx-background-size: cover;
+}
+
+.helpButton {
+    -fx-background-image: url("images/handle.png");
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-max-width: 50px;
+    -fx-max-height: 50px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px;
+    -fx-background-position: bottom left;
+    -fx-background-color: transparent;
+    -fx-padding: 0 100px 0px 0;
+}

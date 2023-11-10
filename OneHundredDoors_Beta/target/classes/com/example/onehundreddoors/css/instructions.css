@@ -1,0 +1,17 @@
+.root {
+    -fx-background-image: url("images/instructionsScreen.png");
+    -fx-background-size: cover;
+}
+
+.backButton {
+    -fx-background-image: url("images/backButton.png");
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-max-width: 50px;
+    -fx-max-height: 50px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}

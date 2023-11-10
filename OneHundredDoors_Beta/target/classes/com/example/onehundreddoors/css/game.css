@@ -1,0 +1,26 @@
+.root {
+    -fx-background-image: url("images/gameBackground.png");
+    -fx-background-size: cover;
+}
+
+.surrButton {
+    -fx-background-image: url("images/surrenderButton.png");
+    -fx-min-width: 80px;
+    -fx-min-height: 100px;
+    -fx-max-width: 240px;
+    -fx-max-height: 300px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 240px 300px;
+    -fx-background-color: transparent;
+}
+
+.text {
+    -fx-fill: #bbb389;
+    -fx-font-family: 'Noto Serif NP Hmong';
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 0;
+}

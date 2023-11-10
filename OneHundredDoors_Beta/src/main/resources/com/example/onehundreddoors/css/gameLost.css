@@ -1,0 +1,17 @@
+.root {
+    -fx-background-image: url("images/lose.png");
+    -fx-background-size: cover;
+}
+
+.button {
+    -fx-background-image: url("images/retryButton.png");
+    -fx-min-width: 200px;
+    -fx-min-height: 200px;
+    -fx-max-width: 200px;
+    -fx-max-height: 200px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 200px 200px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}

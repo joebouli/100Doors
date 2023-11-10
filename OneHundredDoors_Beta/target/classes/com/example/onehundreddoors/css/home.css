@@ -1,0 +1,73 @@
+.root {
+    -fx-background-image: url("images/backgroundTitle.png");
+    -fx-background-size: cover;
+}
+
+.title-text {
+    -fx-fill: #b6aa76;
+    -fx-font-family: 'Noto Serif NP Hmong';
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 0;
+}
+.startButton {
+    -fx-background-image: url("images/startButton.png");
+ /*   -fx-min-width: 40px;
+    -fx-min-height: 80px;
+    -fx-max-width: 130px;
+    -fx-max-height: 200px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 100px 150px;
+    -fx-background-color: transparent;
+    */
+    -fx-min-width: 40px;
+    -fx-min-height: 80px;
+    -fx-max-width: 220px;
+    -fx-max-height: 200px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 125px 110px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+.instructionsButton {
+    -fx-background-image: url("images/instructionsButton.png");
+    -fx-min-width: 40px;
+    -fx-min-height: 100px;
+    -fx-max-width: 340px;
+    -fx-max-height: 220px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 320px 270px;
+    -fx-background-color: transparent;
+}
+.leaderBoardButton {
+    -fx-background-image: url("images/leaderBoardButton.png");
+    -fx-min-width: 40px;
+    -fx-min-height: 60px;
+    -fx-max-width: 300px;
+    -fx-max-height: 300px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 250px 200px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+.backButton {
+    -fx-background-image: url("images/backButton.png");
+    -fx-min-width: 50px;
+    -fx-min-height: 50px;
+    -fx-max-width: 50px;
+    -fx-max-height: 50px;
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 50px 50px;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
